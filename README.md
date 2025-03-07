@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JacketJulian
 - 👀 I’m interested in Full-stack Development
-- 🌱 I’m currently learning Python, Javascript, Java, HTML, CSS & MySQL
-- 💞️ I’m looking to collaborate on any kind of projects where I'm able to learn a new skill.
 - 📫 How to reach me, Discord: DrippyJicky#6432, Twitter: @JacketJulian
 
 <!---
